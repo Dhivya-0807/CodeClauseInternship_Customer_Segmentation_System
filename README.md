@@ -7,3 +7,4 @@ Task 2: Customer Segmentation System
 2. K-means Clustering
 3. Density-Based Clustering.
     
+Dataset: https://www.kaggle.com/code/lakshmi25npathi/online-retail-customer-segmentation-analysis/input
